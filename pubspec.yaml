@@ -1,7 +1,7 @@
 name: phonewords
-description: A sample command-line application.
+description: A package to generate numeric phone numbers from words.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/VismaiNair/phonewords
 
 environment:
   sdk: ^3.5.4
